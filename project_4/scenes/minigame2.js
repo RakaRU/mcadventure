@@ -46,6 +46,7 @@ function minigame2a() {
   }
 
   this.draw = function() {
+    rectMode(START);
     image(wellback, 0, 0);
     snum = map(s, 1, 8, 8, 1);
 
