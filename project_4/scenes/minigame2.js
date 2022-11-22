@@ -18,7 +18,7 @@ function minigame2a() {
   var goal = 300;
 
   this.setup = function() {
-    rectMode(START);
+    rectMode(CORNER);
     cysuccess = 74;
   }
 
@@ -225,6 +225,7 @@ function minigame2b() {
   }
 
   this.draw = function() {
+    rectMode(CORNER);
     image(wellback, 0, 0);
     snum = map(s, 1, 8, 8, 1);
 
