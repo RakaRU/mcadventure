@@ -69,7 +69,7 @@ function preload() {
   zoku2 = loadImage ('scenes/assets/images/zoku2.PNG');
   mike = loadImage('scenes/assets/images/mike.PNG');
   papa = loadImage('scenes/assets/images/camera.PNG');
-  hen = loadImage('scenes/assets/images/hen.png');
+  hen = loadImage('scenes/assets/images/hen.PNG');
   bigcity = loadImage('scenes/assets/images/bigcity.png');
   biggercity = loadImage('scenes/assets/images/biggercity.png');
   store = loadImage('scenes/assets/images/store.png');
