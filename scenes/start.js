@@ -205,7 +205,7 @@ function setup() {
     mgr.bkImage = bkImage;
 
     mgr.wire();
-    mgr.showScene( minigame3a );
+    mgr.showScene( intro );
 
     beginbtnsprite.animation.stop();
     helpbtnsprite.animation.stop();
